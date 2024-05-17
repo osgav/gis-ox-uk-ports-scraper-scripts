@@ -1,0 +1,714 @@
+{
+  "aberaeron": {
+    "location": "Lat: 52º 15’ N; Long: 004º 16’ W Irish Sea – Cardigan Bay South. Half-tide harbour"
+  },
+  "aberdeen": {
+    "location": "57.1464° N; 2.0934° W Principal Port Serving North and Northeast Scotland"
+  },
+  "aberdour-harbour": {
+    "location": "Lat: 56⁰ 03⁰ N; Long: 03⁰ 17⁰W West Fife coast"
+  },
+  "aberdyfi": {
+    "location": "Lat: 52⁰ 32⁰ 6N; Long: 04⁰ 02⁰ 6W"
+  },
+  "aberystwyth": {
+    "location": "Lat: 52º 24′ N; Long: 04º 05′ W Irish Sea – Cardigan Bay South. Half-tide harbour"
+  },
+  "amlwch-port": {
+    "location": "053º 25′.2 N 004º 19′.7W North coast of the Isle of Anglesey"
+  },
+  "anstruther": {
+    "location": "Lat: 56º 13′ N; Long: 02º 42′ W East Neuk of Fife"
+  },
+  "arbroath": {
+    "location": "Lat: 56⁰ 33⁰ N; Long: 02⁰ 35⁰ W Geographical situation: East coast Scotland, Midway between Dundee and Montrose"
+  },
+  "ardglass": {
+    "location": "Lat: 54⁰ 16⁰N; Long: 05⁰ 36⁰ WEast coast County Down, 30 miles south of Belfast"
+  },
+  "ardrishaig": {
+    "location": "Lat: 56⁰ 00.78⁰ N; Long: 05⁰ 26.55⁰ W Head of Loch Fyne"
+  },
+  "ardrossan": {
+    "location": "Lat: 55° 38’ N; Long 04° 48’ W Geographical situation: Southwest coast of Scotland"
+  },
+  "arisaig-harbour": {
+    "location": "Now clearly marked entrance 60 new moorings, up to 50T"
+  },
+  "ayr": {
+    "location": "Lat: 55° 28’ N; Long: 04° 39’ W"
+  },
+  "ballycastle": {
+    "location": "North Antrim Coast, Northern Ireland"
+  },
+  "ballylumford-harbour": {
+    "location": "Port side of the entrance to Larne harbour"
+  },
+  "baltic-wharf": {
+    "location": "Lat: 51° 37; Long: 00° 45 E A small port on east coast, on the River Crouch 3.2km from Burnham on Crouch"
+  },
+  "banff": {
+    "location": "Lat: 57⁰ 40’ W Admiralty Chart1462"
+  },
+  "bangor-co-down": {
+    "location": "South shore Belfast Lough"
+  },
+  "barmouth": {
+    "location": "52⁰ 43’. 00 North; 04⁰ 03’. 00 WestWest Coast of Wales – Mawddach Estuary"
+  },
+  "barrow-in-furness": {
+    "location": "Lat: 52º 15’ N; Long: 004º 16’ W Irish Sea – at the tip of the Furness Penisular. Half-tide harbour"
+  },
+  "barry": {
+    "location": "Lat: 51⁰ 23’ N; Long: 03⁰ 16’ W North side of Bristol Channel"
+  },
+  "belfast": {
+    "location": "Lat: 54⁰ 36’ N; Long: 05⁰ 56’ WA safe accessible deepwater harbour at the head of Belfast Lough, 19km west of the Irish Sea on the northeast coast of Ireland."
+  },
+  "berwick-upon-tweed": {
+    "location": "Lat: 55⁰ 46’ N; Long: 01⁰ 59’ W Midway between Tyne & Forth"
+  },
+  "bideford": {
+    "location": "Lat: 51⁰ 01’ N; Long: 04⁰ 12.2’ WOn bank of Torridge, loading/discharging berths on Town Quay"
+  },
+  "birkenhead": {
+    "location": "Lat: 53⁰ 24’ N; Long: 03⁰ 00.2’ W Northwest coast England"
+  },
+  "blyth": {
+    "location": "Lat: 55° 07 N; Long: 01° 29 W Northeast coast of England"
+  },
+  "boston": {
+    "location": "Lat: 52⁰ 58’ N; Long: 00⁰ 02’ W Southwest corner of Wash Estuary"
+  },
+  "braefoot-bay": {
+    "location": "Lat: 56⁰ 02.0’ N; Long: 03⁰ 18.5’ WNorth shore Forth Estuary"
+  },
+  "braye-alderney": {
+    "location": "Latitude: 49 43.83’N; Longitude: 002 11.42’ W Channel Islands, English Channel"
+  },
+  "bridgwater": {
+    "location": "Lat: 51⁰ 10’ N; Long: 03⁰ 00’ W English side of inner Bristol Channel"
+  },
+  "bridlington": {
+    "location": "Lat: 54⁰ 04.77’ N; Long: 00⁰ 11.12’ W 6.5km WSW Flamborough Head"
+  },
+  "brightlingsea": {
+    "location": "Lat: 51⁰ 48’ N; Long:01⁰ 02’ E Thames Estuary, Essex shore, River Colne"
+  },
+  "bristol-city-docks": {
+    "location": "Lat: 51⁰ 26.9’ N; Long: 01⁰ 37.3’ W Approx 9km upstream of Avonmouth"
+  },
+  "bristol": {
+    "location": "Lat: 51⁰ 27’ N; Long: 02⁰ 38’ WOn south shore of mouth of River Severn (includes Avonmouth and Royal Portbury Dock)"
+  },
+  "brixham": {
+    "location": "Lat: 50⁰ 24’ N; Long: 03⁰ 31’ W"
+  },
+  "brodick": {
+    "location": "Isle of Arran"
+  },
+  "bromborough": {
+    "location": "Lat: 53° 21.30 N; Long: 02° 58.30W NAABSA Berths 6km southeast of Birkenhead on River Mersey"
+  },
+  "buckie-cluny-harbour": {
+    "location": "Lat: 57⁰ 41’ N; Long: 02⁰ 57’ WOn Moray Firth coast midway between Aberdeen and Inverness"
+  },
+  "bude": {
+    "location": "Lat: 50° 49 N; Long: 04° 32 W North coast of Cornwall"
+  },
+  "burghead": {
+    "location": "Lat: 57⁰ 42’ N; Long: 03⁰ 29’ W On south coast of the Inner Moray Firth"
+  },
+  "burntisland": {
+    "location": "Lat: 56⁰ 03’ N; Long: 03⁰ 14’ WNorthern shore Forth estuary, southwest of Kirkcaldy"
+  },
+  "burton-upon-stather": {
+    "location": "River Trent, Humber Estuary"
+  },
+  "caernarfon": {
+    "location": "Lat: 53⁰ 09’ N; Long: 04⁰ 16’ W On Menai Strait"
+  },
+  "cairnryan": {
+    "location": "Lat: 54⁰ 57.7’ N; Long: 5⁰ 00.8’ W South West Scotland"
+  },
+  "campbeltown": {
+    "location": "Lat: 55⁰ 25.4’ N; Long: 05⁰ 35.5’ W Chart 1864 onEast side of Kintyre Peninsula, SW Scotland"
+  },
+  "cardiff": {
+    "location": "Lat: 51⁰ 27’ N; Long: 02⁰ 09’ W North side Bristol Channel"
+  },
+  "carradale": {
+    "location": "Lat: 55⁰ 35.5’N; Long: 05⁰ 28’ W East Coast of Kintyre Peninsula, S W Scotland"
+  },
+  "carrickfergus": {
+    "location": "Lat: 50⁰ 43’ N; Long: 05⁰ 48’ W"
+  },
+  "cellardyke": {
+    "location": "Lat: 56⁰ 14⁰ N; Long: 02⁰ 39⁰ W East of Fife"
+  },
+  "chatham": {
+    "location": "Lat: 51⁰ 24’ N; Long: 00⁰ 33’ E On River Medway, a dock basin accessible via 2 locks."
+  },
+  "chichester": {
+    "location": "Chichester Harbour AONB"
+  },
+  "clydeport-plc": {
+    "location": "Ardrossan, Glasgow, Greenock, and Hunterston"
+  },
+  "cockenzie-harbour": {
+    "location": "Lat: 55° 59’ N; Long: 2° 57’ W Lies 5 cables WSW of Port Seton"
+  },
+  "coleraine": {
+    "location": "Lat: 55° 08’ N; Long: 06° 40’ W On River Bann on north coast of Ireland."
+  },
+  "convoys": {
+    "location": "Lat: 51⁰ 24’ N; Long: 00⁰ 33’ E River Medway in dock basin accessible by lock"
+  },
+  "conwy": {
+    "location": "Lat: 53° 18’ N; Long: 3° 50’ W North Wales"
+  },
+  "cowes": {
+    "location": "Lat: 50° 46’ N; Long: 01° 17’ W Solent, north coast of Isle of Wight"
+  },
+  "craignure": {
+    "location": "Data to follow"
+  },
+  "crail": {
+    "location": "Lat: 56° 15 N; Long: 02° 37’ W East Fife"
+  },
+  "cromarty-firth": {
+    "location": "Lat: 52º 15’ N; Long: 004º 16’ W Irish Sea – Cardigan Bay South. Half-tide harbour"
+  },
+  "dartmouth": {
+    "location": "Lat: 50° 21’ N; Long: 03° 34.5’ W Enclosed deep water harbour, S Devon."
+  },
+  "douglas": {
+    "location": "Lat: 54° 09’ N; Long: 04° 28’ W East coast of Isle of Man, Irish Sea."
+  },
+  "dover": {
+    "location": "Lat: 51° 07’N; Long 01° 20’ E SE tip of England, closet point to continental Europe."
+  },
+  "dumfries-galloway": {
+    "location": "Data to follow"
+  },
+  "dunbar": {
+    "location": "Lat: 56° 00’ N; Long: 2° 31’ W East of Tyne Sands"
+  },
+  "dundee": {
+    "location": "Lat: 56° 28’ N; Long 02° 58’ W Situated on Firth of Tay, 16km from North Sea."
+  },
+  "dunoon-pier": {
+    "location": "Lat: 55⁰ 56.8’ N; Long: 04⁰ 55.2’ W Southeast Cowal, Argyll, Scotland"
+  },
+  "falmouth-docks": {
+    "location": "Lat: 50⁰ 09’ N; Long: 05⁰ 04’ W"
+  },
+  "falmouth-harbour": {
+    "location": "Lat: 50⁰ 09’ N; Long: 05⁰ 03’ W"
+  },
+  "felixstowe": {
+    "location": "Lat: 51° 57 N; Long: 01° 19 E Southern tip of Suffolk, East Coast."
+  },
+  "fishguard": {
+    "location": "West Wales"
+  },
+  "fleetwood": {
+    "location": "Lat: 53° 56 N; Long: 03° 00 W Southern side of Morecambe Bay"
+  },
+  "flixborough": {
+    "location": "Lat: 53⁰ 37’ N; Long: 00⁰ 42’ E On the River Trent west of Scunthorpe"
+  },
+  "flotta": {
+    "location": "Lat: 58⁰ 50.5’ N; Long: 03⁰ 07’ W Flotta Island, Orkney"
+  },
+  "folkestone": {
+    "location": "Lat: 51⁰ 04.32’ N; Long: 01⁰ 11.48’ EStone pier extending SE and E 1360m Long, with Inner harbour that dries at LW"
+  },
+  "fosdyke": {
+    "location": "Data to follow"
+  },
+  "fowey-docks-2": {
+    "location": "Lat: 50⁰ 19’ N; Long: 04⁰ 38’ W On SW coast Cornwall in English Channel Approaches"
+  },
+  "fraserburgh": {
+    "location": "Lat: 57⁰ 42’ N; Long: 02⁰ 00’ W Northeast corner of Scotland"
+  },
+  "gairloch": {
+    "location": "Lat: 57⁰ 42.6’ N; Long: 05⁰ 41.3’ W Half a mile past Glas Island on port side"
+  },
+  "garston": {
+    "location": "Lat: 50⁰ 21’ N; Long: 02⁰ 54’ WNorth bank of River Mersey, 10km upstream of Liverpool City Centre"
+  },
+  "gigha": {
+    "location": "Lat: 55⁰ 39.9’ N; Long: 05⁰ 44.5’ W Island 5km off Kintyre Peninsula on SW coast of Scotland"
+  },
+  "girvan": {
+    "location": "Lat: 55⁰ 14.7’ N; Long: 04⁰ 51.7’ W Clyde Estuary"
+  },
+  "glasgow": {
+    "location": "Lat: 55° 52 N; Long: 04° 17 W 5km from Glasgow city centre"
+  },
+  "glensanda": {
+    "location": "Lat: 56 34’ N; 05 32’W West shore of Loch Linnhe, Morvern Peninsula West Scotland"
+  },
+  "gloucester-harbour": {
+    "location": "The Harbour limits embrace those parts of the estuary of the River Severn above Goldwick on the Welsh shore and the Severn beach on the English shore, the River Severn to Llanthony and Maisemore weirs at Gloucester, and the River Wye downstream of Bigsweir Bridge."
+  },
+  "goole": {
+    "location": "Lat: 53° 42 N; Long: 00° 50 W On River Ouse 80km from sea. The most inland port on east coast."
+  },
+  "gourock": {
+    "location": "Lat. 55 57’N; Long. 04 48’W Clyde Estuary"
+  },
+  "grangemouth": {
+    "location": "Lat: 56° 02.12 N; Long: 03° 41.04 W South shore Forth estuary, west of Edinburgh"
+  },
+  "granton": {
+    "location": "Lat: 55⁰ 59’ N; Long: 03⁰ 13’ W West of Leith"
+  },
+  "great-yarmouth": {
+    "location": "Lat: 52º 36’ N; Long: 01º 44’ E"
+  },
+  "greenock": {
+    "location": "Lat: 55° 57 N; Long: 04° 44 W At entrance to dredged channel"
+  },
+  "grimsby": {
+    "location": "Lat: 53⁰ 35’ N; Long: 00⁰ 04’ W River Humber, 9.5km from N Sea"
+  },
+  "groveport": {
+    "location": "Lat: 53° 36 N; Long: 42° 55 WThree miles from the UKs motorway network with sea access via the Humber Estuary"
+  },
+  "hamble": {
+    "location": "Lat: 50⁰ 50.5’ N; Long: 01⁰ 18.7’ WAt mouth of Southampton Water approx midway Between Southampton and Portsmouth"
+  },
+  "hartlepool": {
+    "location": "Lat: 54° 41 N; Long: 001° 12 W"
+  },
+  "harwich-haven": {
+    "location": "Lat: 51⁰ 56.78’ N; Long: 01⁰ 17.48’ EOn tip of Harwich Peninsula between estuaries of Rivers Stour and Orwell"
+  },
+  "harwich-international-port-ltd": {
+    "location": "Lat: 51⁰ 57’ N; Long: 01⁰ 17’ E Situated at southeast extremity of River Stour Estuary."
+  },
+  "harwich-navyard": {
+    "location": "Lat: 51o 57’ N; Long: 01o 17’ E Situated at south east extremity of River Stour Estuary"
+  },
+  "hatston": {
+    "location": "Lat: 58⁰ 59.95’ N; Long: 002⁰ 58.3’ W South West Kirkwall Bay, Orkney Islands"
+  },
+  "hayle": {
+    "location": "Lat: 50⁰ 11’ N; Long: 05⁰ 26’ W Hayle Estuary, St Ives Bay"
+  },
+  "heysham": {
+    "location": "Lat: 54⁰ 02’ N; Long: 02⁰ 56’ W Northwest England on south coast of Morecambe Bay"
+  },
+  "holyhead": {
+    "location": "Lat: 53⁰ 19’ N; Long: 04⁰ 38’ W On Holy Island, Anglesey, N Wales"
+  },
+  "hound-point-terminal": {
+    "location": "Lat: 56⁰ 00.21’ N; Long: 03⁰ 21.41’ W 500m from southern shore of Forth Estuary"
+  },
+  "howden": {
+    "location": "Lat: 53º 43’ N; Long: 004º 52’ WThe port is strategically placed, just 50 miles from the mouth of the Humber Estuary, and as such, is one of the most inland-sited ports in whole of the British Isles."
+  },
+  "hull": {
+    "location": "North bank of River Humber,east coast."
+  },
+  "immingham": {
+    "location": "Lat: 53° 58 N; Long: 00° 11 W River Humber: 19.8km from N Sea"
+  },
+  "inchgreen": {
+    "location": "Lat: 55º 56’ N; Long: 004º 43’ WSouth bank of the River Clyde about 1.8 miles upstream of Greenock Ocean Terminal"
+  },
+  "invergordon": {
+    "location": "Lat: 57° 41 N; Long: 04° 10 WThe Cromarty Firth is a deep-water, sheltered port on the northeast coast of Scotland.Invergordon is situated on the Firth."
+  },
+  "inverness": {
+    "location": "Lat: 57° 29 N; Long: 04° 14 WIn River Ness at head of Inverness Firth"
+  },
+  "ipswich": {
+    "location": "Lat: 52° 03 N; Long: 01° 10 E 13km inland from Harwich Harbour at head of River Orwell"
+  },
+  "keadby": {
+    "location": "Lat: 53º 36 N; Long: 004º 0 W The Port of Keadby is situated at the junction of the Keadby and Stainforth canal"
+  },
+  "kennacraig": {
+    "location": "Lat: 55⁰ 48.4’ N; Long: 05⁰ 28.9’ WIn west Loch Tarbert, 8km from entrance on Southeast side of Loch."
+  },
+  "kilkeel": {
+    "location": "Lat: 54⁰ 03’ N; Long: 05⁰ 59’ WOn County Down coast north of Carlingford Loug"
+  },
+  "kings-lynn": {
+    "location": "Lat: 52⁰ 45.5’ N; Long: 00⁰ 23.5’ E At mouth of River Great Ouse in southwest corner of Wash."
+  },
+  "kinlochbervie": {
+    "location": "Lat: 58⁰ 27’ N; Long: 05⁰ 03’ W 18km of S of Cape Wrath"
+  },
+  "kirkcaldy": {
+    "location": "Lat: 56⁰ 06’ N; Long: 03⁰ 09’ W North shore of Forth Estuary"
+  },
+  "kirkcudbright": {
+    "location": "Lat: 54⁰ 45’ N; Long: 04⁰ 05’ W On River Dee 7km north from estuary at Little Ross Island"
+  },
+  "kirkwall": {
+    "location": "Lat: 58⁰ 59’ N; Long: 02⁰ 58’ W South end Kirkwall Bay, Orkney Islands"
+  },
+  "kyle-of-lochalsh": {
+    "location": "Lat: 57⁰ 16.8’ N; Long: 05⁰ 42.8’ WBetween narrows of Kyle Rhea and Kyle Akin adjacent to Isle of Skye."
+  },
+  "langstone-harbour": {
+    "location": "50 47.77N; 01 01.52W.Natural harbour between Portsmouth and Hayling Island, Hampshire"
+  },
+  "largs": {
+    "location": "Lat: 55⁰ 48’ N; Long: 04⁰ 52’ W Firth of Clyde between Greenock and Ardrossan"
+  },
+  "larne": {
+    "location": "Northern east coast of Ireland"
+  },
+  "leith": {
+    "location": "Lat: 55° 59 N; Long: 03° 10 WSouthern shore Forth Estuary, north of Edinburgh"
+  },
+  "lerwick": {
+    "location": "Lat: 60º 10’ N; Long: 01º 09’ W 180 nautical miles from both Bergen and Aberdeen."
+  },
+  "littlehampton": {
+    "location": "Lat: 50⁰ 48’ 14” N; Long: 00⁰ 32’ 33”W South coast"
+  },
+  "liverpool": {
+    "location": "Lat: 53⁰ 24’ N; Long: 03⁰ 00.2’ WNorthwest coast of England"
+  },
+  "llanddulas": {
+    "location": "North Wales coast, 5km east of Colwyn Bay"
+  },
+  "lochboisdale": {
+    "location": "Lat: 57⁰ 09’ N; Long: 07⁰ 18’ WOn east coast of Isle of South Uist, Western Isles, Scotland"
+  },
+  "lochinver-harbour": {
+    "location": "Lat: 58⁰ 08’ N; Long: 05⁰ 14’ WNorthwest mainland of Scotland, north of Ullapool."
+  },
+  "lochmaddy": {
+    "location": "Lat: 57° 36 N; Long: 07° 10 WOn the east coast of the western isles of Scotland on the Island of North Ulst"
+  },
+  "london-gateway-port-ltd": {
+    "location": "NO DATA: location"
+  },
+  "london": {
+    "location": "Lat: 51⁰ 30’ N; Long: 00⁰ 04’ W Southeast England"
+  },
+  "londonderry": {
+    "location": "Lat: 55⁰ 1.5’ N; Long: 07⁰ 15.7’ W"
+  },
+  "lowestoft": {
+    "location": "East Anglia, Suffolk"
+  },
+  "lydney": {
+    "location": "Tewkesbury"
+  },
+  "lymington": {
+    "location": "Lat: 50°45´.5N Long: 01°32´.1W Western Solent"
+  },
+  "macduff": {
+    "location": "Lat: 57⁰ 40’ N; Long: 02⁰ 30’ WMoray Firth coast, northeast Scotland at mouth of River Deveron."
+  },
+  "mallaig": {
+    "location": "Lat: 51⁰ 0.20’ N; Long: 05⁰ 49.3’ W"
+  },
+  "manchester-ship-canal": {
+    "location": "Lat: 53° 19.5 N; Long: 02° 57.0 W Entrance to canal in Mersey Estuary."
+  },
+  "menai-bridge": {
+    "location": "Lat: 53⁰ 20’ N; Long: 04⁰ 20’ W Off north Wales coast"
+  },
+  "methil": {
+    "location": "Lat: 56⁰ 11’ N; Long: 03⁰ 01’ W North side of Forth Estuary, northeast of Kirkcaldy"
+  },
+  "mevagissey": {
+    "location": "Lat: 50⁰ 16’ N; Long: 04⁰ 46.8’ W"
+  },
+  "middlesbrough": {
+    "location": "Lat: 54⁰ 35’ 20’ N; Long: 01⁰ 14’ 30’ W"
+  },
+  "milford-haven": {
+    "location": "Lat: 51⁰ 42’28 N; Long: 05⁰ 03’04 W South West Wales"
+  },
+  "minehead-harbour": {
+    "location": "Lat: 51⁰ 13’ 00 N; Long: 03⁰ 28’ 00 W"
+  },
+  "mistley-quay": {
+    "location": "Lat: 51⁰ 57’ N; Long: 01⁰ 05’ E On east coast, River Stour"
+  },
+  "montrose": {
+    "location": "Lat: 56⁰ 42’ N; Long: 02⁰ 27’ WScottish East coast between Aberdeen and Dundee."
+  },
+  "mostyn": {
+    "location": "Lat: 51⁰ 57’ N; Long: 01⁰ 05’ E On east coast, River StourLat: 53⁰ 19’ N; Long: 03⁰ 16’ WSeaward of Dee Estuary on coast of North Wales"
+  },
+  "neath": {
+    "location": "Lat: 51⁰ 37’ N; Long: 03⁰ 50’ WLower reaches of River Neath which flow into the northeast corner of Swansea Bay."
+  },
+  "new-holland": {
+    "location": "South bank River Humber, approx 46km from Spurn L/V"
+  },
+  "new-quay": {
+    "location": "Lat: 52⁰ 13’ N; Long: 04⁰ 21’ WIrish Sea – Cardigan Bay South. Half-tide harbour"
+  },
+  "newhaven": {
+    "location": "Lat: 50° 47 N; Long: 00° 03.5 ESituated at the mouth of the River Ouse in East Sussex."
+  },
+  "newlyn": {
+    "location": "Lat: 50° 06.15’ N; Long: 05° 32.50’ WSheltered in northwest corner of Mount’s Bay."
+  },
+  "newport": {
+    "location": "Alexandra Dock, Newport"
+  },
+  "nigg-energy-park": {
+    "location": "Nigg, Tain IV19 1QU"
+  },
+  "north-berwick-harbour": {
+    "location": "Lat: 56° 04’ N; Long: 2° 43’ WWithin a black rocky point at foot of North Berwick Law"
+  },
+  "north-queensferry": {
+    "location": "Lat: 56° 01’ N; Long: 03° 24’ WForth Road Bridge/Railway Bridge"
+  },
+  "padstow": {
+    "location": "Lat: 50° 32’ N; Long: 04° 56’ W North Cornwall coast"
+  },
+  "pembroke-dock": {
+    "location": "The Dockyard, Pembroke Dock SA72 6TD"
+  },
+  "penryn": {
+    "location": "Lat: 50° 10’ N; Long: 05° 05’ W W part of Fal Estuary, Cornwall"
+  },
+  "penzance": {
+    "location": "Cornwall"
+  },
+  "perth-harbour": {
+    "location": "Lat: 56⁰ 23’ N; Long: 03⁰ 26’ WOn the River Tay 22 miles up river from Dundee, 29 miles from open sea."
+  },
+  "peterhead": {
+    "location": "Lat: 57⁰ 30’ N; Long: 01⁰ 46’ W North East Scotland, Aberdeenshire"
+  },
+  "pettycur-pier": {
+    "location": "Lat: 56⁰ 04’ N; Long: 03⁰ 10’ W West Fife coast"
+  },
+  "pittenweem": {
+    "location": "Lat: 56⁰ 12.4’ N; Long: 02⁰ 43.5’ W East Neuk, Fife"
+  },
+  "plymouth-cattewater-harbour": {
+    "location": "Lat: 50⁰ 21.6’ N; Long: 04⁰ 7’ W North side of Plym estuary"
+  },
+  "plymouth-victoria-wharf": {
+    "location": "Lat: 50⁰ 21.7’ N; Long: 04⁰ 7.6’ W North side of Plym estuary"
+  },
+  "plymouth": {
+    "location": "Lat: 50⁰ 22’ N; Long: 04⁰ 09’ W Within Plymouth Sound."
+  },
+  "poole": {
+    "location": "Lat: 50° 42.8 N; Long: 01° 59.3 WSouth coast England, approx 40km west of Isle of Wight."
+  },
+  "port-ellen": {
+    "location": "Port Ellen, Isle of Islay"
+  },
+  "port-penrhyn": {
+    "location": "Lat: 53° 14’ N; Long: 04° 07 W South side of Menai Straits near Bangor, North Wales"
+  },
+  "port-talbot": {
+    "location": "Severn Estuary"
+  },
+  "portavogie": {
+    "location": "Lat: 54° 27.5’ N; Long: 05° 26.0’ WEast coast of Co Down between Belfast and Strangford Lough."
+  },
+  "porthmadog": {
+    "location": "Lat: 52° 55’ N; Long: 04° 08’ WTremadog Bay in the North of Cardigan Bay, North Wales"
+  },
+  "portland-port": {
+    "location": "Lat:50° 34’ N; Long: 02° 26’ W South coast of England"
+  },
+  "portsmouth": {
+    "location": "Lat: 50° 48’ N; Long: 01° 06’ W South coast of England"
+  },
+  "portsoy": {
+    "location": "Lat: 57° 41’ N; Long: 02° 41’ W Admiralty Chart No 222"
+  },
+  "pwllheli": {
+    "location": "Lat: 52° 53’ N; Long: 04° 24’ W South side of the Lleyn Peninsula"
+  },
+  "ramsgate-royal-harbour": {
+    "location": "Lat: 51° 19.3’ N; Long: 01° 25.2’ E"
+  },
+  "ramsgate": {
+    "location": "51°19’.51N 01°25’.50E (harbour entrance)Ramsgate, Kent"
+  },
+  "richborough": {
+    "location": "Lat: 51° 18’ N; Long: 01° 21’ E Pegwell Bay, near Ramsgate,Kent and Sandwich Haven"
+  },
+  "ridham": {
+    "location": "On the Swale and Medway River, on the mainland opposite Isle of Sheppey"
+  },
+  "rosyth": {
+    "location": "Lat: 56° 01 N; Long: 003° 26 W North shore Forth Estuary, Close proximity to Forth Road and Rail Bridges"
+  },
+  "rothesay": {
+    "location": "Lat: 55° 50’ N; Long: 05° 03’ W West coast of Scotland, Isle of Buteon River Clyde."
+  },
+  "rye": {
+    "location": "Lat: 50° 56’ N; Long: 00° 47’ E English Channel"
+  },
+  "salcombe-harbour": {
+    "location": "Lat: 50° 14’ N; Long: 03° 46’ W"
+  },
+  "sandhaven-harbour": {
+    "location": "Fraserburgh, Scotland"
+  },
+  "sandwich": {
+    "location": "Sandwich, On the Kentish Stour, Kent"
+  },
+  "scalloway-harbour": {
+    "location": "Lat: 60° 08’ N; Long: 01° 16’ W Situated centrally on west coast of mainland, Shetland."
+  },
+  "scarborough-harbour": {
+    "location": "Lat: 54⁰ 16.8’ N; Long: 00⁰ 23.3’ W North Yorkshire Coast,"
+  },
+  "scrabster-harbour": {
+    "location": "Lat: 58° 37’ N; Long: 03° 33’ WWestern side of the sheltered Thurso Bay, most northerly British mainland port."
+  },
+  "seaham-harbour": {
+    "location": "Lat: 54⁰ 50’ N; Long: 01⁰ 19’ W Northeast England, 15km east of Durham City"
+  },
+  "sennen-cove": {
+    "location": "Lat: 50⁰ 04’ N; Long: 5⁰ 42’ W NW facing cove with small breakwater"
+  },
+  "sharpness": {
+    "location": "Lat: 51⁰ 43’ N; Long: 02⁰ 29’ W At the head of the Bristol Channel."
+  },
+  "sheerness": {
+    "location": "Lat: 51⁰ 27’ N; Long: 00⁰ 45’ E At the mouth of the River Medway"
+  },
+  "shoreham": {
+    "location": "Lat: 50° 49.5’ N; Long: 000° 14.85’ W"
+  },
+  "silloth": {
+    "location": "Lat: 54⁰ 52’ N; Long: 003⁰ 24’ W"
+  },
+  "south-killingholme": {
+    "location": "Lat: 53⁰ 38.9’ N; Long: 00⁰ 12.5’ W River Humber, close to Immingham Dock"
+  },
+  "southampton": {
+    "location": "Central south coast of England, head of Southampton water"
+  },
+  "st-helier-jersey": {
+    "location": "Lat: 49° 10’ N; Long: 02° 06’ W South coast Jersey, Channel Islands."
+  },
+  "st-marys-harbour-isles-of-scilly": {
+    "location": "Lat: 49° 55.1’ N; Long: 06° 19.0’ W 40km southwest of Lands End"
+  },
+  "st-monans": {
+    "location": "Lat: 56° 12’ N; Long: 02° 46’ W East of Fife"
+  },
+  "st-peter-port": {
+    "location": "Lat: 49° 27’ N; Long: 02° 32’ W Channel Islands."
+  },
+  "strangford": {
+    "location": "Lat: 54° 22.3’ N; Long: 05° 33.5’ WTwo miles north of Angus Rock Lighthouse, West side of Strangford Lough"
+  },
+  "stromness": {
+    "location": "Lat: 58° 58’ N; Long: 03° 17.5’ W West side Orkney mainland."
+  },
+  "sullom-voe": {
+    "location": "Lat: 60° 26’ N; Long: 01° 18’ W Situated in Sullom Voe, on the north coast of Mainland Shetland"
+  },
+  "sunderland": {
+    "location": "Lat: 54° 55’ N; Long: 01° 21’ W Northeast coast England"
+  },
+  "sutton-bridge": {
+    "location": "Lat: 52° 48’ N; Long: 00° 15’ E Wash, east coast UK"
+  },
+  "sutton-harbour": {
+    "location": "Lat: 50° 20’ N; Long: 04° 09’ W"
+  },
+  "swansea": {
+    "location": "Lat: 51° 37’ N; Long: 03° 55’ W Bristol Channel"
+  },
+  "tarbert-harbour-loch-fyne-argyll": {
+    "location": "Lat: 55° 52’ N; Long: 5° 24’ W West shore of lower Loch Fyne – North Kintyre"
+  },
+  "tees-billingham": {
+    "location": "Lat: 54° 35.2’ N; Long: 01° 15.5’ WNorth bank of River Tees, 7.0nm from South Gare breakwater"
+  },
+  "tees-clarence-port": {
+    "location": "Lat: 54° 37.4 N; Long: 01° 13.3’ W North bank of River Tees, 5.5nm from South Gare breakwater"
+  },
+  "tees-seaton-port": {
+    "location": "Lat: 54° 38.38’N; Long: 01° 11.17’ ENorth bank of Seaton Channel 0.75nm From River Tees Turning circle"
+  },
+  "teesport": {
+    "location": "Lat: 54° 35’ N; Long: 01° 13’ W"
+  },
+  "teignmouth": {
+    "location": "Southwest England"
+  },
+  "tenby-harbour": {
+    "location": "Lat: 51° 40.4’ N; Long: 04° 41.8’ W Carmarthen Bay, Wales"
+  },
+  "thamesport": {
+    "location": "Lat: 51° 26 N; Long: 0° 42 EOn Medway River two miles from Thames River at Sheerness."
+  },
+  "tilbury": {
+    "location": "Lat: 51⁰ 27’ N; Long: 00⁰ 21’ E North bank of River Thames, 26 miles from centre of London"
+  },
+  "torquay-torbay-harbour": {
+    "location": "Lat. 55⁰ 30’ N; 04⁰ 41’ W35 miles (56km) from Glasgow"
+  },
+  "troon": {
+    "location": "Lat: 50⁰ 27’ N; Long: 03⁰ 27’ W North end of Torbay"
+  },
+  "truro": {
+    "location": "Lat: 50° 15 N; Long: 05° 02.5 W Northern part of the Fal estuary."
+  },
+  "tyne": {
+    "location": "Lat: 55° 01’ N; Long: 01° 25’ W North East England"
+  },
+  "uig": {
+    "location": "Lat: 57° 53.70’ N; Long: 05° 09.30’ W Northwest mainland of Scotland"
+  },
+  "ullapool": {
+    "location": "Lat: 57° 35 N; Long: 06° 22 W Uig Bay, Loch Snizort, Isle of Skye"
+  },
+  "warkworth-harbour": {
+    "location": "Lat: 55° 21.0 N; Long: 01° 34.0 WNorth East Coast, entrance to River Coquet, close to Scottish borders."
+  },
+  "warrenpoint": {
+    "location": "Lat: 54° 01 N; Long: 06° 15 W Head of Carlingford Lough"
+  },
+  "watchet": {
+    "location": "Lat: 51⁰ 11’ 00 N; Long: 03⁰ 20’ 00 W"
+  },
+  "wells-next-the-sea": {
+    "location": "Lat: 52⁰ 59’ N; Long: 00⁰ 49’ E"
+  },
+  "weymouth-harbour": {
+    "location": "Lat: 50⁰ 36.6’ N; Long: 02⁰ 27’ W South Dorset"
+  },
+  "whitby-harbour": {
+    "location": "Lat: 54⁰ 30’ N; Long: 00⁰ 37’ WNorth Yorkshire Coast, 32m southeast of River Tees."
+  },
+  "whitehaven": {
+    "location": "Lat: 54⁰ 33’ N; Long: 03⁰ 35’ W West coast England, Solway Firth (Irish Sea)"
+  },
+  "whitstable": {
+    "location": "Lat: 51⁰ 22’ N; Long: 01⁰ 02’ E North Kent coast at entrance to Swale estuary"
+  },
+  "wick": {
+    "location": "Lat: 58⁰ 26.5’ N; Long: 03⁰ 05’ W North coast Scotland"
+  },
+  "wisbech": {
+    "location": "Lat: 52⁰ 40’ N; Long: 00⁰ 10’ E"
+  },
+  "wormit-woodhaven": {
+    "location": "Lat: 56° 26’ N; Long: 02° 57’ W West of Tay Bridge, on north Fife coast."
+  },
+  "yarmouth": {
+    "location": "Lat: 50° 42.38’ N; Long: 01° 29’ W Northwest Isle of Wight, south coast of UK"
+  }
+}
+
